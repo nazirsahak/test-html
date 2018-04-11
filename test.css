@@ -1,0 +1,9 @@
+div.box {
+	width: 350px;
+	padding: 10px;
+}
+
+div.green {
+	background-color: rgba(49, 163, 160, 1);
+	color: #ffffff;
+}
